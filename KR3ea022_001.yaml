@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ea022/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 素問入式運氣論奧
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea022.xml
+hash: sha256:cc692a9ca5c4192738f7bc2b70c1c843e5e84a85978de0158cca715033c5c8fa
