@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea022/v1
 canonical_location: https://kanripo.org/bkk/KR3ea022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 素問入式運氣論奧
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3ea022_001.yaml
     hash: sha256:cc692a9ca5c4192738f7bc2b70c1c843e5e84a85978de0158cca715033c5c8fa
 table_of_contents: []
-hash: sha256:a135b3f843ac12973ab83a022b4d41748403ad1b2b5a7257e50e2fa8b21b8596
+hash: sha256:a56c29dfbd27dbcd2854545aadef5b51f886acb32b35b5248656bb92c8be8214
